@@ -1,4 +1,6 @@
-### Hi there 👋
+### Connect 
+
+<i class="fab fa-linkedin-in"></i>
 
 <!--
 **niranjanneeru/niranjanneeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
