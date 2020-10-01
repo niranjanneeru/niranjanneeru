@@ -24,11 +24,11 @@ ___
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanneeru&layout=compact)](https://github.com/niranjanneeru)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanneeru&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/niranjanneeru)
 
 ___
 
 
 <a href="https://github.com/niranjanneeru/Covid-19-Tracker">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=Covid-19-Tracker&theme=dark&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=Covid-19-Tracker&&theme=radical&cache_seconds=86400&show_icons=true" />
 </a>
