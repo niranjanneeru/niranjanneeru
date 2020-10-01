@@ -29,7 +29,7 @@ ___
 ___
 
 <a href="https://github.com/niranjanneeru/VisCoT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=VisCoT&theme=dark&show_icons=true" />
+  <img align="center" height=140px width = 400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=VisCoT&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/niranjanneeru/Covid-19-Tracker">
   <img align="center" height=140px width = 400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=Covid-19-Tracker&theme=dark&show_icons=true" />
