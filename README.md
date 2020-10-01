@@ -1,6 +1,6 @@
 ### Connect 
 
-<i class="fab fa-linkedin-in"></i>
+<a href="https://www.linkedin.com/in/niranjannb/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4"></a>
 
 <!--
 **niranjanneeru/niranjanneeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
