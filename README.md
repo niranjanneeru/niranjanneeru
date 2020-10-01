@@ -27,3 +27,10 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanneeru&layout=compact)](https://github.com/niranjanneeru)
 
 ___
+
+<a href="https://github.com/niranjanneeru/VisCoT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=VisCoT&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/niranjanneeru/Covid-19-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=Covid-19-Tracker&theme=dark&show_icons=true" />
+</a>
