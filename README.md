@@ -1,6 +1,7 @@
 ### Connect 
 
-<a href="https://www.linkedin.com/in/niranjannb/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4"></a>
+<a href="https://www.linkedin.com/in/niranjannb/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20px height=20px></a>
+<a href="https://twitter.com/niranjan_neerub"><img src = "https://avatars3.githubusercontent.com/u/50278?s=200&v=4" width=20px height=20px></a>
 
 <!--
 **niranjanneeru/niranjanneeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
