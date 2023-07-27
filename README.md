@@ -27,3 +27,9 @@ I am a Software Developer/Backend Developer, I am from Kerala, India.
 <p align="center">
   <img src=https://github-readme-streak-stats.herokuapp.com?user=niranjanneeru&theme=dark&hide_border=true />
 </p>
+
+___
+
+<p align="center">
+Last Updated on 27 July 2023
+</p>
