@@ -31,5 +31,5 @@ I am a Software Developer/Backend Developer, I am from Kerala, India.
 ___
 
 <p align="center">
-Last Updated on 10 September 2023
+Last Updated on 17 September 2023
 </p>
