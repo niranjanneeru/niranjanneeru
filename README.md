@@ -24,10 +24,6 @@ I am a Software Developer/Backend Developer, I am from Kerala, India.
 | ------------- | ------------- |
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjanneeru&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400">  |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanneeru&layout=compact&theme=radical&cache_seconds=86400"> |
 
-<p align="center">
-  <img src=https://github-readme-streak-stats.herokuapp.com?user=niranjanneeru&theme=dark&hide_border=true />
-</p>
-
 ___
 
 <p align="center">
