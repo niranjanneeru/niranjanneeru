@@ -1,7 +1,7 @@
 [![Header](images/header.jpeg "Header")](https://github.com/niranjanneeru)
 
 
-## Hey Folks,
+## Hey Folks
 
 I am a Software Developer/Backend Developer, I am from Kerala, India.
 
