@@ -3,7 +3,7 @@
 
 ## Hey Folks
 
-I am a Software Developer/Backend Developer, I am from Kerala, India.
+I work with **Gen AI** | **Backend** | Building intelligent systems at scale
 
 ### Where to find me
 <p>
