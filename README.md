@@ -13,6 +13,7 @@ I am a Software Developer/Backend Developer, I am from Kerala, India.
 ### Articles
 
 <ul>
+<li><a href="https://ieeexplore.ieee.org/document/11179973" target="_blank">IEEE Paper: eBPF-Based Runtime Detection of Semantic DDoS Attacks in Linux Containers</a></li>
 <li><a href="https://medium.com/@niranjannb7777/binary-huffman-encoding-91b1884edc05?source=rss-7fc07edd0058------2" target="_blank">Binary Huffman Encoding</a></li>
 </ul>
 
