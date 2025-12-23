@@ -17,15 +17,7 @@ I am a Software Developer/Backend Developer, I am from Kerala, India.
 <li><a href="https://medium.com/@niranjannb7777/binary-huffman-encoding-91b1884edc05?source=rss-7fc07edd0058------2" target="_blank">Binary Huffman Encoding</a></li>
 </ul>
 
-### Contributions
-
-
-|||
-| ------------- | ------------- |
-|<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=niranjanneeru&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400">  |  <img align="center" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanneeru&layout=compact&theme=radical&cache_seconds=86400"> |
-
 ___
-
 [![Holopin](https://holopin.me/niranjanneeru)](https://holopin.io/@niranjanneeru)
 
 ___
